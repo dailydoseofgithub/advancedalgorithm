@@ -154,3 +154,7 @@ if __name__ == "__main__":
 # Acceptance Rule: Metropolis criterion
 # Cooling Schedule: Exponential cooling
 # Stopping Criteria: Temperature threshold or max iterations
+
+
+# The stopping criteria are reaching a minimum temperature threshold (T < T_min) or exceeding the maximum number of iterations, 
+# whichever occurs first.
