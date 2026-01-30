@@ -94,6 +94,37 @@
 
 # #     The algorithm converges rapidly in practice
 
+
+
+
+
+
+
+# 1️⃣ What does math.hypot(x - xi, y - yi) mean?
+# Short answer
+
+# hypot computes the Euclidean distance between two points.
+
+# In Python
+# dist = math.hypot(x - xi, y - yi)
+
+# is exactly the same as:
+
+# dist = math.sqrt((x - xi)**2 + (y - yi)**2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###############################################################################################################
 #1 b)
 
