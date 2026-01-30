@@ -27,6 +27,12 @@ print(max_points([3, 1, 5, 8]))
 
 
 
+
+
+
+
+
+
 # In this problem, we have a row of tiles, each with a number (score multiplier):
 # Example: [3, 1, 5, 8]
 
